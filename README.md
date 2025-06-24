@@ -2,7 +2,7 @@
 
 In this piece, we use Wireshark to analyze different types of network traffic coming & going from Azure Virtual Machines. We also experiment with Network Security Groups.
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments & Technologies Used</h2>
 
 - Microsoft Azure
 - Remote Desktop
