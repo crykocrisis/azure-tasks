@@ -15,7 +15,7 @@ In this piece, we use Wireshark to analyze different types of network traffic co
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>Creating two virtual machines</h2>
+<b>Creating two virtual machines</b>
 
 1. Establish a Resource Group
 
