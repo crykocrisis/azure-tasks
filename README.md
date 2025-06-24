@@ -37,7 +37,7 @@ a. When constructing the virtual machine, make sure the Resource Group & Virtual
   
   ![Screenshot 2025-06-18 111425](https://github.com/user-attachments/assets/79b6d8bc-3ab0-4c95-ac3d-3951d5e48334)
 
- b. Authentication is username/password.
+b. Authentication is username/password.
 
 ![Screenshot 2025-06-18 110802](https://github.com/user-attachments/assets/6c373943-4bb6-4bc1-80ca-1112bc12ba1d)
 
@@ -45,7 +45,7 @@ a. When constructing the virtual machine, make sure the Resource Group & Virtual
 
 ![Screenshot 2025-06-18 111425](https://github.com/user-attachments/assets/a9016a0f-1086-4ec1-adfa-b7eb6bd975c5)
 
-<h2>ICMP traffic</h2> 
+<b>ICMP traffic</b> 
 
 1. Connect to your Windows 10 virtual machine using Remote Desktop. 
 
@@ -71,7 +71,7 @@ a. When constructing the virtual machine, make sure the Resource Group & Virtual
 
 ![Screenshot 2025-06-18 130346](https://github.com/user-attachments/assets/0f55ae6c-ed4f-4aae-a992-cbc4ef741f08)
 
-<h2>Firewall configuration </h2>
+<b>Firewall configuration </b>
 
 1. Start a continuous/nonstop ping between your Ubuntu & Windows 10 virtual machines.
 
@@ -95,7 +95,7 @@ a. When constructing the virtual machine, make sure the Resource Group & Virtual
 
 ![Screenshot 2025-06-18 132330](https://github.com/user-attachments/assets/c96c671b-9965-4ded-8100-529284a97eeb)
 
-<h2>SSH traffic</h2>
+<b>SSH traffic</b>
 
 1. Only filter SSH traffic.
 
@@ -115,7 +115,7 @@ a. When constructing the virtual machine, make sure the Resource Group & Virtual
 
 ![Screenshot 2025-06-18 140900](https://github.com/user-attachments/assets/9cbbae67-d27c-449d-9f4b-c08672ad5b15)
 
-<h2>DHCP traffic</h2>
+<b>DHCP traffic</b>
 
 1. Return to Wireshark & filter only DHCP traffic.
 
@@ -131,7 +131,7 @@ b. Watch the DHCP traffic that WireShark displays.
 
 ![Screenshot 2025-06-18 144429](https://github.com/user-attachments/assets/e7e0bb23-feb8-4e1c-a6fc-94c0f2fe02be)
 
-<h2>DNS traffic</h2>
+<b>DNS traffic</b>
 
 1. Return to Wireshark & filter just DNS traffic.
 
@@ -145,7 +145,7 @@ a. Examine the DNS traffic seen in WireShark.
 
 ![Screenshot 2025-06-18 144857](https://github.com/user-attachments/assets/1f844a51-f94e-4aa7-8984-c793f51641e5)
 
-<h2>RDP traffic</h2>
+<b>RDP traffic</b>
 
 1. Once again, filter for RDP traffic only in Wireshark (tcp.port == 3389).
 
