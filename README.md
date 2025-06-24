@@ -1,4 +1,4 @@
-# Carrying out tasks on the Network between Azure machines
+# Activities on the Network between Azure machines
 
 In this piece, we use Wireshark to analyze different types of network traffic coming & going from Azure Virtual Machines. We also experiment with Network Security Groups.
 
